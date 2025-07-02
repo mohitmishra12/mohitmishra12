@@ -1,11 +1,11 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://techamdavad.com/web/image/product.product/57/image_1024/Fullstack%20Java%20Development?unique=8bd84e5)](https://mohitmishra12.github.io/)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frani-dhage_java-spingboot-backenddeveloper-activity-7217494667972472832-P5IF&psig=AOvVaw0aGKB0PBKYDKMHBFz3SQeF&ust=1751529030862000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCq76bYnY4DFQAAAAAdAAAAABAE)](https://mohitmishra12.github.io/)
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi 🙋‍♂️ I'm Mohit Mishra
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsunaina-bawa&psig=AOvVaw3iEO_BWerpW3RSDg2x9w6C&ust=1751523125207000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjZs6bCnY4DFQAAAAAdAAAAABAE" width="35">
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsunaina-bawa&psig=AOvVaw3iEO_BWerpW3RSDg2x9w6C&ust=1751523125207000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjZs6bCnY4DFQAAAAAdAAAAABAE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F6DF7&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)" width="35">
 </h1>
 
 
