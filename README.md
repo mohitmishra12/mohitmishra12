@@ -1,6 +1,6 @@
-<!----------------------------------- Banner Section ------------------------------------>
+![image](https://github.com/user-attachments/assets/79d5562b-a80f-4b61-8cd9-530280a1e923)![image](https://github.com/user-attachments/assets/c6a07e24-c808-430f-8e3c-d7abdd3cb9f1)<!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)](https://mohitmishra12.github.io/)
+[![MasterHead](https://sixphrase.com/wp-content/uploads/2024/02/java-full-stack-inforgraphics-01.png)](https://mohitmishra12.github.io/)
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
