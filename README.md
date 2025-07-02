@@ -5,27 +5,28 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi 🙋‍♂️ I'm Mohit Mishra
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsunaina-bawa&psig=AOvVaw3iEO_BWerpW3RSDg2x9w6C&ust=1751523125207000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjZs6bCnY4DFQAAAAAdAAAAABAE" width="35">
 </h1>
+
+
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h2 align="center">Java Developer</h2>
+<h2 align="center">Java FullStack Developer</h2>
 
 # 💫 About Me:
 
 <img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
 
-- 🔭 I’m currently preparing for placements!.
-- 🌱 I’m currently learning MERN Stack.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1wdU1CxLO2XwZRAkIHtyR_Kvtk9NudVc7/view?usp=sharing) 
-- 💻 Know more about me [Portfilio](https://mohitmishra12.github.io/)
-- 💻 All of my projects are available at My [Github Repositories](https://github.com/mohitmishra12?tab=repositories)
-
-- 💬 Ask me about Java , Hibernate, JPA, Springboot
-
-- 😄 Pronouns: Web Developer/he/him/his
-- 💼 any freelance work? do reach, [email](mailto:mohitmishra747041@gmail.com) :)
+- 👨‍💻 I’m a **Java Backend Developer** at **LycaDigital**, with hands-on experience in **Java, Spring Boot, Hibernate, JPA**, and **Microservices architecture**.
+- ⚙️ I specialize in designing scalable and efficient backend systems using **RESTful APIs**, robust **database design**, and **enterprise-level architecture**.
+- 💻 I also work with **React.js** for building dynamic and user-friendly frontends.
+- 🛠️ Tools & Technologies I use regularly: **Postman**, **Docker**, **Git**, **GitHub**, **Maven**, **JIRA**, **MySQL**, **IntelliJ IDEA**, **VS Code**, and more.
+- 🚀 Passionate about writing clean, maintainable code and following best practices in software development.
+- 📄 [View My Resume](https://drive.google.com/file/d/1wdU1CxLO2XwZRAkIHtyR_Kvtk9NudVc7/view?usp=sharing)
+- 🌐 [Visit My Portfolio](https://mohitmishra12.github.io/)
+- 📁 [Explore My GitHub Projects](https://github.com/mohitmishra12?tab=repositories)
+- 📬 Open for freelance work and collaborations: [mohitmishra747041@gmail.com](mailto:mohitmishra747041@gmail.com):)
   <br/>
 
 <h2 align="center">📱 Connect with me</h2>
