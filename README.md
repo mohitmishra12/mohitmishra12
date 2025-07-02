@@ -1,11 +1,11 @@
 <!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frani-dhage_java-spingboot-backenddeveloper-activity-7217494667972472832-P5IF&psig=AOvVaw0aGKB0PBKYDKMHBFz3SQeF&ust=1751529030862000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCq76bYnY4DFQAAAAAdAAAAABAE)](https://mohitmishra12.github.io/)
+[![MasterHead](https://techamdavad.com/web/image/product.product/57/image_1024/Fullstack%20Java%20Development?unique=8bd84e5)](https://mohitmishra12.github.io/)
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi 🙋‍♂️ I'm Mohit Mishra
-    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsunaina-bawa&psig=AOvVaw3iEO_BWerpW3RSDg2x9w6C&ust=1751523125207000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjZs6bCnY4DFQAAAAAdAAAAABAE](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F6DF7&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)" width="35">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsunaina-bawa&psig=AOvVaw3iEO_BWerpW3RSDg2x9w6C&ust=1751523125207000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjZs6bCnY4DFQAAAAAdAAAAABAE" width="35">
 </h1>
 
 
@@ -34,10 +34,10 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohit--Mishra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-Mohit-Mishra/)](https://www.linkedin.com/in/Mohit-Mishra-9626701b5/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohit--Mishra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/07-Mohit-Mishra/)](https://www.linkedin.com/in/mohitmish/)
 [![Twitter Badge](https://img.shields.io/badge/-%40Mohit4387-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MohitVa22310248)](https://twitter.com/Mohit4387)
 [![Website Badge](https://img.shields.io/badge/-Mohit--Mishra-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://Mohit-Mishra-portfolio.vercel.app/)](https://mohitmishra12.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-Mohit119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Mohit119427@gmail.com)](mailto:Mohit119427@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Mohit119427-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Mohit119427@gmail.com)](mailto:Mohitmishra747041@gmail.com)
 
 </div>
 
