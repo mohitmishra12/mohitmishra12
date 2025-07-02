@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/79d5562b-a80f-4b61-8cd9-530280a1e923)![image](https://github.com/user-attachments/assets/c6a07e24-c808-430f-8e3c-d7abdd3cb9f1)<!----------------------------------- Banner Section ------------------------------------>
 
-[![MasterHead](https://sixphrase.com/wp-content/uploads/2024/02/java-full-stack-inforgraphics-01.png)](https://mohitmishra12.github.io/)
+[![MasterHead](https://techamdavad.com/web/image/product.product/57/image_1024/Fullstack%20Java%20Development?unique=8bd84e5)](https://mohitmishra12.github.io/)
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
