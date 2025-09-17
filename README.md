@@ -9,8 +9,19 @@
   <img src="https://komarev.com/ghpvc/?username=mohitmishra12&color=brightgreen" alt="Profile Views">
 </p>
 
-<!-- ===================== Badges / Tech Stack ===================== -->
-#### 💻 Languages & Frameworks
+---
+
+<!-- ===================== Tech Stack Grid ===================== -->
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,docker,kubernetes,react,js,ts,html,css,git" />
+</p>
+
+---
+
+<!-- ===================== Badges (optional extra details) ===================== -->
+#### 💻 Languages & Frameworks  
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
@@ -30,8 +41,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
+---
+
 <!-- ===================== About Me ===================== -->
-### 👨‍💻 About Me
+### 👨‍💻 About Me  
 
 - 🔭 Currently working on: **Java Backend & Full Stack Development** (Spring Boot ⚡ + Microservices 🧩 + React.js 🎨)  
 - 🌱 On a journey to **master Java Full Stack & Cloud Technologies** 🚀  
@@ -39,43 +52,47 @@
 - 📖 Love exploring **Spring, Hibernate, Microservices & DevOps tools** like Jenkins, Docker, Kubernetes  
 - ☁️ 2025 Goal: Get deeper into **Cloud & DevOps (AWS | Azure | CI/CD | Monitoring)**  
 - 🤓 Always hungry for **learning new backend architectures & system design**  
-- ⚡ Fun Fact: *“Code runs on caffeine ☕, but debugging runs on patience 😅”*
+- ⚡ Fun Fact: *“Code runs on caffeine ☕, but debugging runs on patience 😅”*  
 
-<!-- ===================== Pro Feature Block: Stats + Langs + Streak + Trophies + Quote ===================== -->
+---
+
+<!-- ===================== GitHub Stats + Langs + Streak + Trophies ===================== -->
 <p align="center">
-  <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohitmishra12&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- Spacer -->
   <br/>
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra12&layout=compact&theme=tokyonight" alt="Top Languages" />
-
   <br/>
-
-  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohitmishra12&theme=highcontrast" alt="GitHub Streak" />
-
   <br/>
-
-  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=mohitmishra12&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
 
-  <br/>
+---
 
-  <!-- Daily / Random Quote -->
+<!-- ===================== Activity Graph ===================== -->
+### 📊 Weekly Development Breakdown  
+
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra12&bg_color=0d1117&color=7fdbca&line=21e1e1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- ===================== Snake Animation ===================== -->
+### 🐍 Contribution Snake  
+
+![Snake animation](https://github.com/mohitmishra12/mohitmishra12/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- ===================== Daily Quote ===================== -->
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
-<!-- ===================== Optional: Contact / Socials ===================== -->
+---
+
+<!-- ===================== Contact / Socials ===================== -->
 <p align="center">
   <a href="https://linkedin.com/in/mohitmishra12" target="_blank">LinkedIn</a> •
   <a href="https://github.com/mohitmishra12" target="_blank">GitHub</a> •
   <a href="mailto:youremail@example.com">Email</a>
 </p>
-
----
-
-> 🔧 **Note:** If your GitHub username is different, replace every occurrence of `mohitmishra12` in the image URLs above with your username.
-
