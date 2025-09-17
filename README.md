@@ -1,6 +1,7 @@
+<!-- ===================== Hero / Typing ===================== -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Mohit+Mishra;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Mohit+Mishra;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30" alt="Typing SVG">
   </a>
 </h1>
 
@@ -8,63 +9,73 @@
   <img src="https://komarev.com/ghpvc/?username=mohitmishra12&color=brightgreen" alt="Profile Views">
 </p>
 
----
+<!-- ===================== Badges / Tech Stack ===================== -->
+#### 💻 Languages & Frameworks
 
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-3EB489?style=flat-square&logo=spring)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat-square&logo=microgenetics)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+<!-- ===================== About Me ===================== -->
 ### 👨‍💻 About Me
 
-- 🔭 Currently focused on: FullStack (Frontend ⚡ + Backend 💾 + DevOps ⚙️)
-- 🌱 On a mission to master Fullstack Engineering ❤️
-- 💻 Love building clean, scalable, production-ready apps
-- 📖 Always diving into docs like it’s my daily newspaper 📰
-- ☁️ 2024 Goal: Level up on AWS & Azure
-- 🤯 Fun Fact: `==` and `===` — not the same. JS be wild.
+- 🔭 Currently working on: **Java Backend & Full Stack Development** (Spring Boot ⚡ + Microservices 🧩 + React.js 🎨)  
+- 🌱 On a journey to **master Java Full Stack & Cloud Technologies** 🚀  
+- 💻 Passionate about building **clean, scalable & production-ready enterprise apps**  
+- 📖 Love exploring **Spring, Hibernate, Microservices & DevOps tools** like Jenkins, Docker, Kubernetes  
+- ☁️ 2025 Goal: Get deeper into **Cloud & DevOps (AWS | Azure | CI/CD | Monitoring)**  
+- 🤓 Always hungry for **learning new backend architectures & system design**  
+- ⚡ Fun Fact: *“Code runs on caffeine ☕, but debugging runs on patience 😅”*
+
+<!-- ===================== Pro Feature Block: Stats + Langs + Streak + Trophies + Quote ===================== -->
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitmishra12&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Spacer -->
+  <br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitmishra12&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+  <br/>
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohitmishra12&theme=highcontrast" alt="GitHub Streak" />
+
+  <br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitmishra12&theme=onedark&row=1&column=6" alt="Trophies" />
+
+  <br/>
+
+  <!-- Daily / Random Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+<!-- ===================== Optional: Contact / Socials ===================== -->
+<p align="center">
+  <a href="https://linkedin.com/in/mohitmishra12" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/mohitmishra12" target="_blank">GitHub</a> •
+  <a href="mailto:youremail@example.com">Email</a>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+> 🔧 **Note:** If your GitHub username is different, replace every occurrence of `mohitmishra12` in the image URLs above with your username.
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mohitmishra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitmishr/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohit_mishra_4)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/said7388)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitmishra747041@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
-
-#### 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu)
-
-#### 🧰 Dev Tools
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-F26B3A?style=flat-square&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=ant-design)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-
----
-
-@@ -75,7 +84,7 @@
----
-
-
-### Featured Repositories
-
-
-<a href="https://github.com/mohitmishra12/developer-portfolio">
