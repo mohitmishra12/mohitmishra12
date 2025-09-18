@@ -74,11 +74,6 @@
 
 [![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra12&bg_color=0d1117&color=7fdbca&line=21e1e1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-## 🏆 GitHub Trophies
-
-<img width="100%" src="https://github-trophies.vercel.app/?username=chatman-media&theme=transparent&column=8&row=1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" alt="GitHub Trophies"/>
-
 
 <!-- ===================== Daily Quote ===================== -->
 <p align="center">
