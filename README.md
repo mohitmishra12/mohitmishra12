@@ -75,13 +75,20 @@
 [![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitmishra12&bg_color=0d1117&color=7fdbca&line=21e1e1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+## 🏆 GitHub Trophies
 
-<!-- ===================== Snake Animation ===================== -->
-### 🐍 Contribution Snake  
+<img width="100%" src="https://github-trophies.vercel.app/?username=chatman-media&theme=transparent&column=8&row=1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,SECRET" alt="GitHub Trophies"/>
 
-![Snake animation](https://github.com/mohitmishra12/mohitmishra12/blob/output/github-contribution-grid-snake.svg)
+## 📈 Coding Activity
 
----
+<div align="center">
+  <!-- GitHub Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chatman-media/chatman-media/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chatman-media/chatman-media/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chatman-media/chatman-media/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- ===================== Daily Quote ===================== -->
 <p align="center">
